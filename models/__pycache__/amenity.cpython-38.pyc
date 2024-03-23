@@ -1,0 +1,12 @@
+U  
+ ���b��@s$dZddlmZGdd�de�ZdS)zDefines the Amenity class.�)�	BaseModelc@seZdZdZdZdS)�AmenityzXRepresent an amenity. 
+  
+     Attributes: 
+         name (str): The name of the amenity. 
+     �N)�_name_� 
+ _module�qualname�doc_�name�r 
+ r 
+ �*/home/culer/AirBnB_clone/models/amenity.pyrsrN)r�models.base_modelrrr 
+ r 
+ r 
+ r�<module>s

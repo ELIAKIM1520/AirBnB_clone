@@ -1,0 +1,17 @@
+U  
+ ���b��@s$dZddlmZGdd�de�ZdS)zDefines the User class.�)�	BaseModelc@s eZdZdZdZdZdZdZdS)�Userz�Represent a User. 
+  
+     Attributes: 
+         email: Email of the user. 
+         password: Password of the user. 
+         first_name: The first name of the user. 
+         last_name: The last name of the user. 
+     �N)�_name_� 
+ _module�qualname�doc_ZemailZpasswordZ 
+ first_name�        last_name�r 
+ r 
+ �'/home/culer/AirBnB_clone/models/user.pyrs 
+ 	rN)r�models.base_modelrrr 
+ r 
+ r 
+ r�<module>s

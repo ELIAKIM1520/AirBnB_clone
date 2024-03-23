@@ -1,0 +1,12 @@
+U  
+ ���b��@s$dZddlmZGdd�de�ZdS)zDefines the State class.�)�	BaseModelc@seZdZdZdZdS)�StatezIRepresent a state. 
+  
+     Attributes: 
+         name: Name of the state. 
+     �N)�_name_� 
+ _module�qualname�doc_�name�r 
+ r 
+ �(/home/culer/AirBnB_clone/models/state.pyrsrN)r�models.base_modelrrr 
+ r 
+ r 
+ r�<module>s

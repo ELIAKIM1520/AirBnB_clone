@@ -1,0 +1,13 @@
+U  
+ ���b�@s$dZddlmZGdd�de�ZdS)zDef the City class.�)�	BaseModelc@seZdZdZdZdZdS)�Cityz}Represent a city class. 
+  
+     Attributes: 
+         state_id (str): The state id. 
+         name (str): The name of the city. 
+     �N)�_name_� 
+ _module�qualname�doc_Zstate_id�name�r 
+ r 
+ �'/home/culer/AirBnB_clone/models/city.pyrsrN)r�models.base_modelrrr 
+ r 
+ r 
+ r�<module>s

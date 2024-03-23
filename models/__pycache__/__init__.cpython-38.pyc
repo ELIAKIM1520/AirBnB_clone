@@ -1,0 +1,2 @@
+U  
+ ���b��@s"dZddlmZe�Ze��dS)z*_init_ magic method for models directory�)�FileStorageN)�_docZmodels.engine.file_storagerZstorage�reload�rr�+/home/culer/AirBnB_clone/models/init_.py�<module>s

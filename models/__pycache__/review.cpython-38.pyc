@@ -1,0 +1,9 @@
+U  
+ ���b=�@s$dZddlmZGdd�de�ZdS)zDef the Review class.�)�	BaseModelc@seZdZdZdZdZdZdS)�Reviewz�Represent a review. 
+  
+     Attributes: 
+         place_id: The Place id. 
+         user_id: The User id. 
+         text: The text of the review. 
+     �N)�_name_� 
+ _module�qualname�doc_Zplace_id�user_id�text�rr�)/home/culer/AirBnB_clone/models/review.pyrsrN)r�models.base_modelrrrrrr�<module>s
